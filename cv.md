@@ -8,7 +8,7 @@ __Mobile:__ +7 911 711 11 67
 	
 __E-mail:__ lexamet@mail.ru
 
-__Vkontakte__ vk.com/demlex
+__Vkontakte:__ vk.com/demlex
 
 __GitHub:__ demlex
 
@@ -18,23 +18,23 @@ __Discord:__ demlex#7248
 
 ### Objective 
 
-__Go back at IT __
+__Go back at IT__
 
 *****
 
 ### Skills
 
-*Network Operating Systems:*   Windows NT-2019 Server; FreeBSD/Linux UNIX.
-*Networking:*   LAN&WAN& Secured WLAN design, installation and maintenance; network hardware; internetworking; TCP/IP; Internet & intranet.
-*Routers & Routing Systems:*   Cisco; Nortel; D-Link; HP; Juniper
-*Groupware & Communications:*   Microsoft Exchange 2000-2019 Server; Citrix 
-*Development:*   MS Visual C++, C#; VBScript.
-*DBMS:*   TSQL; PL/SQL; Microsoft Access; mySQL.
-*Office Software:*   Microsoft Office (advanced programming skills).
-*FMA/ERP Software:* Scala; 1C; Monolit NT, Oracle E-Business Suite, SAP
-*Design system:*  ExoCad; 
-*Web:* HTML; 1C-Bitrix; landing page development; php; CSS; Java-Script; 
-*Non-Computer Skills:*   Principles of management, finances and business re-engineering, project management, analytical, critical thinking, and problem solving 
+*Network Operating Systems:*   Windows NT-2019 Server; FreeBSD/Linux UNIX.  
+*Networking:*   LAN&WAN& Secured WLAN design, installation and maintenance; network hardware; internetworking; TCP/IP; Internet & intranet.  
+*Routers & Routing Systems:*   Cisco; Nortel; D-Link; HP; Juniper  
+*Groupware & Communications:*   Microsoft Exchange 2000-2019 Server; Citrix  
+*Development:*   MS Visual C++, C#; VBScript.  
+*DBMS:*   TSQL; PL/SQL; Microsoft Access; mySQL.  
+*Office Software:*   Microsoft Office (advanced programming skills).  
+*FMA/ERP Software:* Scala; 1C; Monolit NT, Oracle E-Business Suite, SAP  
+*Design system:*  ExoCad;  
+*Web:* HTML; 1C-Bitrix; landing page development; php; CSS; Java-Script;  
+*Non-Computer Skills:*   Principles of management, finances and business re-engineering, project management, analytical, critical thinking, and problem solving  
 
 *****
 ## Example of Code
