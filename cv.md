@@ -42,45 +42,17 @@ __Go back at IT__
 ## Example of Code
 
 
-```C#
-           using (var reader = new PdfReader(currentFile))
-           {
-                PdfReaderContentParser parser = new PdfReaderContentParser(reader);
-                for (int i = 1; i <= reader.NumberOfPages; i++)
-                {
-                    var strategy = parser.ProcessContent(i, new LocationTextExtractionStrategyWithPosition());
-                    var res1 = strategy.GetLocations();
-                    var searchResult = res1.Where(p => p.Text.Contains(signaturedescription)).OrderBy(p => p.Y).Reverse().ToList();
-                    for (int j = 0; j < searchResult.Count; j++)
-                    {
-                        XSignPosition = searchResult[j].X + (searchResult[j].XEnd - searchResult[j].X) * searchResult[j].Text.IndexOf(signaturedescription) / searchResult[j].Text.Length;
-                        YSignPosition = searchResult[j].Y;
-                        SigCtl sigCtl = new SigCtl();
-                        DynamicCapture dc = new DynamicCaptureClass();
-                        DynamicCaptureResult res = dc.Capture(sigCtl, name, reason + " стр " + i.ToString(), null, null);
+```JavaScript
+const assert = require("chai").assert;
 
-                        if (res == DynamicCaptureResult.DynCaptOK)
-                        {
-                            SigObj sigObj = (SigObj)sigCtl.Signature;
-                            String filename = System.IO.Path.GetTempFileName();
-                            try
-                            {
-                                sigObj.RenderBitmap(filename, 400, 200, "image/png", 0.5f, 0xff0000, 0xffffff, 10.0f, 10.0f, RBFlags.RenderOutputFilename | RBFlags.RenderColor32BPP | RBFlags.RenderEncodeData | RBFlags.RenderBackgroundTransparent);
-                            }
-                            catch (Exception ex)
-                            {
-                                MessageBox.Show(ex.Message);
-                            }
-
-                            string newFile = InsertSignatureImageToPdf(filename, i);
-                            loadPdf(newFile, false);
-
-                        }
-                    }
-
-                }
-                reader.Close();
-            }
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15);   
+  });
+});
 ```
 
 *****
