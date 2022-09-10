@@ -1,5 +1,7 @@
 # Dementsov Alexey Alexandrovich
 
+
+![Dementsov Alexey Alexandrovich](./DementsovAA.jpg)
 *****
 
 ### Contact Info
