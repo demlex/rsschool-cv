@@ -95,11 +95,11 @@ __Go back at IT__
 
 
 
-2001–2007	Vena Brewery & Baltika Brewery        Saint Petersburg
-*System Administrator  (2001 – 2003 Vena Brewery)*
-*IT specialist (2003-2004 Vena Brewery)*
-*Specialist of System Integration (2004-2006 Vena Brewery)*
-*Senior Specialist of System Integration (2006-2007 Baltika Brewery)*
+2001–2007	Vena Brewery & Baltika Brewery        Saint Petersburg  
+*System Administrator  (2001 – 2003 Vena Brewery)*  
+*IT specialist (2003-2004 Vena Brewery)*  
+*Specialist of System Integration (2004-2006 Vena Brewery)*  
+*Senior Specialist of System Integration (2006-2007 Baltika Brewery)*  
 
 - Monolit NT (ERP class system) implementation; client-bank systems support; workflow analysis, design and implementation of working procedures; consulting services for Monolit NT users; system supervision, maintenance and trouble¬shooting; DBMS programming for Monolit NT. 
 - Implemented up to production use set of Monolit NT modules (finance & commodity circulation modules).
@@ -111,9 +111,9 @@ __Go back at IT__
 
 
 
-1999–2001	OGGI	Saint Petersburg
-*System Administrator  (1999 – 2000)* 
-*IT Manager (2000 – 2001)*
+1999–2001	OGGI	Saint Petersburg  
+*System Administrator  (1999 – 2000)*  
+*IT Manager (2000 – 2001)*  
 
 *****
 ### Education
