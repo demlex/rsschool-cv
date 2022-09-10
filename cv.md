@@ -4,21 +4,21 @@
 
 ### Contact Info
 
-	- **Mobile:** +7 911 711 11 67 
+__Mobile:__ +7 911 711 11 67 
 	
-	- **E-mail:** lexamet@mail.ru
+__E-mail:__ lexamet@mail.ru
 
-	- **Vkontakte** vk.com/demlex
+__Vkontakte__ vk.com/demlex
 
-	- **GitHub:** demlex
+__GitHub:__ demlex
 
-	- **Discord:** demlex#7248
+__Discord:__ demlex#7248
 
 *****
 
 ### Objective 
 
-**Go back at IT **
+__Go back at IT __
 
 *****
 
